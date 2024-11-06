@@ -1,4 +1,4 @@
-<h1 align="center">Project: Using Linux Commands to Manage File Permissions</h1>
+<h1 align="center">Project: Using Linux Commands to Enforce Least Privilege</h1>
 
 <p>This project, led by the Google Cyber Security Course, demonstrates how to enforce the "Least Privilege" security principle by managing file permissions on a Linux platform.</p>
 
