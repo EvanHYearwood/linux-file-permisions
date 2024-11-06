@@ -2,6 +2,8 @@
 
 <p>This project, led by the Google Cyber Security Course, demonstrates how to enforce the "Least Privilege" security principle by managing file permissions on a Linux platform.</p>
 
+<h2>Evan H. Yearwood - Portfolio Project</h2>
+
 <h2>Project Overview</h2>
 
 <h3>Scenario</h3>
